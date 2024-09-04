@@ -1,4 +1,4 @@
-# pache-ranger-compiled
+# Apache-ranger-compiled
 
 git clone https://github.com/apache/ranger.git
 
